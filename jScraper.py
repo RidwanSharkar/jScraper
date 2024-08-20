@@ -32,7 +32,8 @@ job_titles = [
     "Software Engineer Winter Graduates",
     "Software Engineer Winter Grads", 
     "Software Engineer December Grads",
-    "Software Engineer January Grads"
+    "Software Engineer January Grads",
+    "Mega-Brain Guy"
 ]
 
 options = Options()
